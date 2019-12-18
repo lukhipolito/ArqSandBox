@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArqSandBox", "ArqSandBox\ArqSandBox.csproj", "{79F2227B-936B-4720-8D9D-04F615265EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F2227B-936B-4720-8D9D-04F615265EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F2227B-936B-4720-8D9D-04F615265EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F2227B-936B-4720-8D9D-04F615265EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F2227B-936B-4720-8D9D-04F615265EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEC04CBF-58E4-4703-BF8D-236840B894F0}
+	EndGlobalSection
+EndGlobal
