@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using ArqSandBox.Models;
+using ArqSandBox.Presentation.Models;
 
-namespace ArqSandBox.Controllers
+namespace ArqSandBox.Presentation.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace ArqSandBox.Models
+namespace ArqSandBox.Presentation.Models
 {
     public class ErrorViewModel
     {

@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArqSandBox", "ArqSandBox\ArqSandBox.csproj", "{79F2227B-936B-4720-8D9D-04F615265EE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArqSandBox.Presentation", "ArqSandBox\ArqSandBox.Presentation.csproj", "{79F2227B-936B-4720-8D9D-04F615265EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArqSandBox.Facade", "ArqSandBox.Facade\ArqSandBox.Facade.csproj", "{052ED4E7-D157-4D89-AE76-26B3417F06E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArqSandBox.BusinessLogic", "ArqSandBox.BusinessLogic\ArqSandBox.BusinessLogic.csproj", "{BDFEED83-28A7-4EE9-BA75-8BFE7A7137A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArqSandBox.Model", "ArqSandBox.Model\ArqSandBox.Model.csproj", "{FB6D9740-49D6-41BD-BB45-2DD96EE9F1C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{79F2227B-936B-4720-8D9D-04F615265EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79F2227B-936B-4720-8D9D-04F615265EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79F2227B-936B-4720-8D9D-04F615265EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{052ED4E7-D157-4D89-AE76-26B3417F06E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052ED4E7-D157-4D89-AE76-26B3417F06E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052ED4E7-D157-4D89-AE76-26B3417F06E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052ED4E7-D157-4D89-AE76-26B3417F06E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFEED83-28A7-4EE9-BA75-8BFE7A7137A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFEED83-28A7-4EE9-BA75-8BFE7A7137A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFEED83-28A7-4EE9-BA75-8BFE7A7137A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFEED83-28A7-4EE9-BA75-8BFE7A7137A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6D9740-49D6-41BD-BB45-2DD96EE9F1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6D9740-49D6-41BD-BB45-2DD96EE9F1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6D9740-49D6-41BD-BB45-2DD96EE9F1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6D9740-49D6-41BD-BB45-2DD96EE9F1C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
