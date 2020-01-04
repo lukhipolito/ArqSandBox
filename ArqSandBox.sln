@@ -59,6 +59,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceContract.Model", "Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceContract.DataAccess", "ServiceContract.DataAccess\ServiceContract.DataAccess.csproj", "{EAF31955-549E-4294-8C07-7AED79697D1F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arq", "Arq", "{98F24C74-9FA5-4070-B430-722BF8BF5C5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manager", "Manager\Manager.csproj", "{5C9F6300-4F9F-4365-B9D0-8D8E51445EC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +117,10 @@ Global
 		{EAF31955-549E-4294-8C07-7AED79697D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAF31955-549E-4294-8C07-7AED79697D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAF31955-549E-4294-8C07-7AED79697D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9F6300-4F9F-4365-B9D0-8D8E51445EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9F6300-4F9F-4365-B9D0-8D8E51445EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9F6300-4F9F-4365-B9D0-8D8E51445EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9F6300-4F9F-4365-B9D0-8D8E51445EC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -142,6 +150,7 @@ Global
 		{5AE7B629-913A-4FF4-ABEC-9A9D08920E65} = {3CEA037E-DF95-4CE5-8F87-240C24BAA0AC}
 		{A0F8245F-F654-49C0-B3AE-901DBC5A155B} = {E02F3102-F47E-4D94-8E07-D3C0A36CB723}
 		{EAF31955-549E-4294-8C07-7AED79697D1F} = {E69BD55E-A1E0-4853-9F7C-7944E5CD29B7}
+		{5C9F6300-4F9F-4365-B9D0-8D8E51445EC5} = {98F24C74-9FA5-4070-B430-722BF8BF5C5E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EEC04CBF-58E4-4703-BF8D-236840B894F0}

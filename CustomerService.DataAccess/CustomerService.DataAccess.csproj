@@ -4,4 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerService.Model\CustomerService.Model.csproj" />
+    <ProjectReference Include="..\Manager\Manager.csproj" />
+  </ItemGroup>
+
 </Project>
