@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Manager\Manager.csproj" />
+    <ProjectReference Include="..\Manager\Arq.Commom.csproj" />
     <ProjectReference Include="..\PaymentService.Model\PaymentService.Model.csproj" />
   </ItemGroup>
 

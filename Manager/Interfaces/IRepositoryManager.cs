@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Manager
+namespace Arq.Commom
 {
     public interface IRepositoryManager<T>
     {

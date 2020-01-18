@@ -7,27 +7,27 @@ namespace ServiceContract.DataAccess
 {
     public class ServiceContractRepository : IServiceContractRepository
     {
-        public void Add(ServiceContractModel item)
+        public void Add(Model.ServiceContract item)
         {
             throw new NotImplementedException();
         }
 
-        public void Delete(ServiceContractModel item)
+        public void Delete(Model.ServiceContract item)
         {
             throw new NotImplementedException();
         }
 
-        public ServiceContractModel Get(int id)
+        public Model.ServiceContract Get(int id)
         {
             throw new NotImplementedException();
         }
 
-        public IList<ServiceContractModel> List()
+        public IList<Model.ServiceContract> List()
         {
             throw new NotImplementedException();
         }
 
-        public void Update(ServiceContractModel item)
+        public void Update(Model.ServiceContract item)
         {
             throw new NotImplementedException();
         }

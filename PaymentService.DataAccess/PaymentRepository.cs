@@ -7,27 +7,27 @@ namespace PaymentService.DataAccess
 {
     public class PaymentRepository : IPaymentRepository
     {
-        public void Add(PaymentModel item)
+        public void Add(Payment item)
         {
             throw new NotImplementedException();
         }
 
-        public void Delete(PaymentModel item)
+        public void Delete(Payment item)
         {
             throw new NotImplementedException();
         }
 
-        public PaymentModel Get(int id)
+        public Payment Get(int id)
         {
             throw new NotImplementedException();
         }
 
-        public IList<PaymentModel> List()
+        public IList<Payment> List()
         {
             throw new NotImplementedException();
         }
 
-        public void Update(PaymentModel item)
+        public void Update(Payment item)
         {
             throw new NotImplementedException();
         }

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace PaymentService.Model
 {
-    public class PaymentModel
+    public class Payment
     {
         public double Total { get; set; }
         public PaymentTypeEnum PaymentType { get; set; }

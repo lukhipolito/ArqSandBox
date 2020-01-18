@@ -5,13 +5,13 @@ VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PaymentService", "PaymentService", "{C8FD4A6A-061F-4657-BD7A-D343E8BA3524}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService.API", "PaymentService.API\PaymentService.API.csproj", "{249E1696-3E4D-49EA-9678-D027DBAF7047}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentService.API", "PaymentService.API\PaymentService.API.csproj", "{249E1696-3E4D-49EA-9678-D027DBAF7047}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService.Model", "PaymentService.Model\PaymentService.Model.csproj", "{8E9C2032-88AA-4A2A-96F2-993998DEA6B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentService.Model", "PaymentService.Model\PaymentService.Model.csproj", "{8E9C2032-88AA-4A2A-96F2-993998DEA6B0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomerService", "CustomerService", "{F518FC67-296E-43DE-BC14-41BC84BEB634}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService.DataAccess", "PaymentService.DataAccess\PaymentService.DataAccess.csproj", "{86519B63-CDA7-4096-AF5B-B44CA3E7B21C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentService.DataAccess", "PaymentService.DataAccess\PaymentService.DataAccess.csproj", "{86519B63-CDA7-4096-AF5B-B44CA3E7B21C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{010B91B3-D9BB-49AF-85F2-22F3E5B77E05}"
 EndProject
@@ -25,9 +25,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Data Access", "3 - Data Access", "{E59F3615-63E6-4D4B-9F4F-DF35B9EC495C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerService.Model", "CustomerService.Model\CustomerService.Model.csproj", "{1F3851A6-DFE9-4B0D-9250-6A487DBE7BED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerService.Model", "CustomerService.Model\CustomerService.Model.csproj", "{1F3851A6-DFE9-4B0D-9250-6A487DBE7BED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerService.API", "CustomerService.API\CustomerService.API.csproj", "{8B1959BE-98B5-43A4-B987-7077DAA8AD8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerService.API", "CustomerService.API\CustomerService.API.csproj", "{8B1959BE-98B5-43A4-B987-7077DAA8AD8F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContractorService", "ContractorService", "{93F70789-58DE-4CE7-81BE-A8135B5B8446}"
 EndProject
@@ -37,13 +37,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Data Access", "3 - Data Access", "{00D23018-1EEE-4CFC-9181-17515DF61F04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContractorService.API", "ContractorService.API\ContractorService.API.csproj", "{66B55688-C3AA-487A-9CFD-F28DD71F219B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContractorService.API", "ContractorService.API\ContractorService.API.csproj", "{66B55688-C3AA-487A-9CFD-F28DD71F219B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContractorService.Model", "ContractorService.Model\ContractorService.Model.csproj", "{522046FB-6409-4593-BF50-485C4EB0E0B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContractorService.Model", "ContractorService.Model\ContractorService.Model.csproj", "{522046FB-6409-4593-BF50-485C4EB0E0B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContractorService.DataAccess", "ContractorService.DataAccess\ContractorService.DataAccess.csproj", "{1875F7C0-B345-4C94-BFA2-D36F6A2BCEEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContractorService.DataAccess", "ContractorService.DataAccess\ContractorService.DataAccess.csproj", "{1875F7C0-B345-4C94-BFA2-D36F6A2BCEEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerService.DataAccess", "CustomerService.DataAccess\CustomerService.DataAccess.csproj", "{20F7F89A-1402-4DEE-9B91-D2836C896304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerService.DataAccess", "CustomerService.DataAccess\CustomerService.DataAccess.csproj", "{20F7F89A-1402-4DEE-9B91-D2836C896304}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceContractService", "ServiceContractService", "{D619F6BC-6069-49AB-9566-9F9A603E6847}"
 EndProject
@@ -53,15 +53,35 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Data Access", "3 - Data Access", "{E69BD55E-A1E0-4853-9F7C-7944E5CD29B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceContract.API", "ServiceContract.API\ServiceContract.API.csproj", "{5AE7B629-913A-4FF4-ABEC-9A9D08920E65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceContract.API", "ServiceContract.API\ServiceContract.API.csproj", "{5AE7B629-913A-4FF4-ABEC-9A9D08920E65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceContract.Model", "ServiceContract.Model\ServiceContract.Model.csproj", "{A0F8245F-F654-49C0-B3AE-901DBC5A155B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceContract.Model", "ServiceContract.Model\ServiceContract.Model.csproj", "{A0F8245F-F654-49C0-B3AE-901DBC5A155B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceContract.DataAccess", "ServiceContract.DataAccess\ServiceContract.DataAccess.csproj", "{EAF31955-549E-4294-8C07-7AED79697D1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceContract.DataAccess", "ServiceContract.DataAccess\ServiceContract.DataAccess.csproj", "{EAF31955-549E-4294-8C07-7AED79697D1F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arq", "Arq", "{98F24C74-9FA5-4070-B430-722BF8BF5C5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manager", "Manager\Manager.csproj", "{5C9F6300-4F9F-4365-B9D0-8D8E51445EC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arq.Commom", "Manager\Arq.Commom.csproj", "{5C9F6300-4F9F-4365-B9D0-8D8E51445EC5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceContract.Business", "ServiceContract.Business\ServiceContract.Business.csproj", "{2F508657-AB27-431B-9C1F-FB87E4F2D5A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AuthService", "AuthService", "{1B6980E5-A747-4D0C-8B22-327890C2ACD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{0ACABA1E-7816-4B61-86E4-C23EB274C7F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{3826B9C3-20A6-4513-A9D6-F77A3E1363BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Data Access", "3 - Data Access", "{805349C9-298D-4CF2-AE1E-828E3DAD5FC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AccountService", "AccountService", "{0CBD5FF3-B6AE-45C6-AFCE-8CF59BED5FFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{C29261EA-99F2-49AB-ADF6-A1CC8140E109}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{B603D65C-1E08-436A-8DA1-4FD086A5305A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Data Access", "3 - Data Access", "{DB67B2E9-B188-4DB5-90F3-AE2E7B24E577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountService.Model", "AccountService.Model\AccountService.Model.csproj", "{86F51EAD-D974-48F5-A765-4B09B86B89B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +141,14 @@ Global
 		{5C9F6300-4F9F-4365-B9D0-8D8E51445EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C9F6300-4F9F-4365-B9D0-8D8E51445EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C9F6300-4F9F-4365-B9D0-8D8E51445EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F508657-AB27-431B-9C1F-FB87E4F2D5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F508657-AB27-431B-9C1F-FB87E4F2D5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F508657-AB27-431B-9C1F-FB87E4F2D5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F508657-AB27-431B-9C1F-FB87E4F2D5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F51EAD-D974-48F5-A765-4B09B86B89B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F51EAD-D974-48F5-A765-4B09B86B89B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F51EAD-D974-48F5-A765-4B09B86B89B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F51EAD-D974-48F5-A765-4B09B86B89B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -151,6 +179,14 @@ Global
 		{A0F8245F-F654-49C0-B3AE-901DBC5A155B} = {E02F3102-F47E-4D94-8E07-D3C0A36CB723}
 		{EAF31955-549E-4294-8C07-7AED79697D1F} = {E69BD55E-A1E0-4853-9F7C-7944E5CD29B7}
 		{5C9F6300-4F9F-4365-B9D0-8D8E51445EC5} = {98F24C74-9FA5-4070-B430-722BF8BF5C5E}
+		{2F508657-AB27-431B-9C1F-FB87E4F2D5A3} = {E02F3102-F47E-4D94-8E07-D3C0A36CB723}
+		{0ACABA1E-7816-4B61-86E4-C23EB274C7F4} = {1B6980E5-A747-4D0C-8B22-327890C2ACD3}
+		{3826B9C3-20A6-4513-A9D6-F77A3E1363BA} = {1B6980E5-A747-4D0C-8B22-327890C2ACD3}
+		{805349C9-298D-4CF2-AE1E-828E3DAD5FC2} = {1B6980E5-A747-4D0C-8B22-327890C2ACD3}
+		{C29261EA-99F2-49AB-ADF6-A1CC8140E109} = {0CBD5FF3-B6AE-45C6-AFCE-8CF59BED5FFE}
+		{B603D65C-1E08-436A-8DA1-4FD086A5305A} = {0CBD5FF3-B6AE-45C6-AFCE-8CF59BED5FFE}
+		{DB67B2E9-B188-4DB5-90F3-AE2E7B24E577} = {0CBD5FF3-B6AE-45C6-AFCE-8CF59BED5FFE}
+		{86F51EAD-D974-48F5-A765-4B09B86B89B6} = {B603D65C-1E08-436A-8DA1-4FD086A5305A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EEC04CBF-58E4-4703-BF8D-236840B894F0}

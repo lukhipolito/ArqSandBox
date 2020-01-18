@@ -7,27 +7,27 @@ namespace ContractorService.DataAccess
 {
     public class ContractorRepository : IContractorRepository
     {
-        public void Add(ContractorModel item)
+        public void Add(Contractor item)
         {
             throw new NotImplementedException();
         }
 
-        public void Delete(ContractorModel item)
+        public void Delete(Contractor item)
         {
             throw new NotImplementedException();
         }
 
-        public ContractorModel Get(int id)
+        public Contractor Get(int id)
         {
             throw new NotImplementedException();
         }
 
-        public IList<ContractorModel> List()
+        public IList<Contractor> List()
         {
             throw new NotImplementedException();
         }
 
-        public void Update(ContractorModel item)
+        public void Update(Contractor item)
         {
             throw new NotImplementedException();
         }

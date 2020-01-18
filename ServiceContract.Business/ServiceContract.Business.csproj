@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Manager\Arq.Commom.csproj" />
     <ProjectReference Include="..\ServiceContract.Model\ServiceContract.Model.csproj" />
   </ItemGroup>
 

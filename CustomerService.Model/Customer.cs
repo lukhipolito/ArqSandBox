@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CustomerService.Model
 {
-    public class CustomerModel
+    public class Customer
     {
         public string Name { get; set; }
     }

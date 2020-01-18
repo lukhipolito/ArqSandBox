@@ -7,27 +7,27 @@ namespace CustomerService.DataAccess
 {
     public class CustomerRepository : ICustomerRepository
     {
-        public void Add(CustomerModel item)
+        public void Add(Customer item)
         {
             throw new NotImplementedException();
         }
 
-        public void Delete(CustomerModel item)
+        public void Delete(Customer item)
         {
             throw new NotImplementedException();
         }
 
-        public CustomerModel Get(int id)
+        public Customer Get(int id)
         {
             throw new NotImplementedException();
         }
 
-        public IList<CustomerModel> List()
+        public IList<Customer> List()
         {
             throw new NotImplementedException();
         }
 
-        public void Update(CustomerModel item)
+        public void Update(Customer item)
         {
             throw new NotImplementedException();
         }
