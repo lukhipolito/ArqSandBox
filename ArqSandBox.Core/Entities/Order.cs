@@ -3,8 +3,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ArqSandBox.Core.Entities
 {
-    internal class Product : BaseEntity
+    internal class Order : BaseEntity
     {
-        internal DbSet<Product> Products { get; set; }
+        internal DbSet<Order> Orders { get; set; }
     }
 }

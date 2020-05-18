@@ -9,7 +9,5 @@ namespace ArqSandBox.Core.Context
             : base(options)
         {
         }
-
-        public DbSet<Product> Products { get; set; }
     }
 }
