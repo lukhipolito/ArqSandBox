@@ -3,13 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArqSandBox.API", "ArqSandBox.API\ArqSandBox.API.csproj", "{F32299C4-360C-40E6-BF01-D2A952171A8B}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArqSandBox.Common", "ArqSandBox.Common\ArqSandBox.Common.csproj", "{8F85A723-FF97-437E-855C-77B5796EFBE2}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArqSandBox.Test", "ArqSandBox.Test\ArqSandBox.Test.csproj", "{ABF58633-565C-41EE-96D9-8363C2B3B063}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArqSandBox.Core", "ArqSandBox.Core\ArqSandBox.Core.csproj", "{2DAD25EB-AF7A-468C-A5AC-BFA3C94BF5E2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5AF92C21-E699-47DC-9BA5-57DD41475A48}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,22 +14,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F32299C4-360C-40E6-BF01-D2A952171A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F32299C4-360C-40E6-BF01-D2A952171A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F32299C4-360C-40E6-BF01-D2A952171A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F32299C4-360C-40E6-BF01-D2A952171A8B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8F85A723-FF97-437E-855C-77B5796EFBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F85A723-FF97-437E-855C-77B5796EFBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F85A723-FF97-437E-855C-77B5796EFBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F85A723-FF97-437E-855C-77B5796EFBE2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ABF58633-565C-41EE-96D9-8363C2B3B063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ABF58633-565C-41EE-96D9-8363C2B3B063}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ABF58633-565C-41EE-96D9-8363C2B3B063}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ABF58633-565C-41EE-96D9-8363C2B3B063}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2DAD25EB-AF7A-468C-A5AC-BFA3C94BF5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2DAD25EB-AF7A-468C-A5AC-BFA3C94BF5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2DAD25EB-AF7A-468C-A5AC-BFA3C94BF5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2DAD25EB-AF7A-468C-A5AC-BFA3C94BF5E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
